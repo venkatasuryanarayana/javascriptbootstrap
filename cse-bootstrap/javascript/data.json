@@ -1,0 +1,18 @@
+{ "profile":[{ 
+   "img":"1.png",
+   "name":"GIET",
+   "Pin":123,
+   "Branch":"CSE"
+},
+{
+   "img":"2.png",
+   "name":"GIER",
+   "Pin":124,
+   "Branch":"CSE"
+},
+{ "img":"1.png",
+    "name":"SDC",
+    "Pin":125,
+    "Branch":"It-Eng"
+}]
+}
